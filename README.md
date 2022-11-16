@@ -11,6 +11,7 @@ My name is Sava Topich. I am studying Information Technology with a minor in Cyb
 - **Extra:** I play golf and I also have music/vocal production skills
 
 ![Examples of python coding and malware analysis](/images/work%20ex%202.png)
+![work ex 2](https://user-images.githubusercontent.com/57881354/202310157-dab3d55b-41c6-4a0c-b00e-c2dda2133b7d.png)
 
 ## Hobbies
 - Music/Vocal Production
