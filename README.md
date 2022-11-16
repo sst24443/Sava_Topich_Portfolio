@@ -1,7 +1,7 @@
 # Sava Topich Portfolio
 Cybersecurity Student Athlete at Marymount University
 
-![](https://github.com/sst24443/Sava_Topich_Portfolio/blob/main/images/Volleyball%20Portrait.JPG)
+![](/images/Volleyball%20Portrait.JPG)
 
 ## Skills
 - **Programming Languages:** Python, Java, and SQL
@@ -20,4 +20,4 @@ Cybersecurity Student Athlete at Marymount University
 I have been working since May as a security specialist intern for LastLine Cyber, Inc. located in Pittsburgh, PA. I have gained a lot of experience in different areas of cybersecurity. Threat hunting is something I have found very interesting. I have been able to manage clients systems through our threat hunting software where I can monitor different threats, network traffic, indicators of compromise, compliance issues and more. Getting into threat hunting allowed me to start running live tests on different types of ransomware through virtual machines. Doing that gave me the chance to give a live presentation for a client where I was able to pitch our service. Gaining that experience has let me create training programs and materials custom to our clients needs.
 
 In addition to threat hunting and training, I have gained experience in policy writing and template building for security policies, incident response, business continuity, and disaster recovery. I have also done different product research on potential software services and Linux tools.
-![Examples of network traffic monitoring, policy writing, and ransomware testing](https://github.com/sst24443/Sava_Topich_Portfolio/blob/main/images/Work%20ex.png)
+![Examples of network traffic monitoring, policy writing, and ransomware testing](/images/Work%20ex.png)
