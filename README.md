@@ -21,13 +21,13 @@ My name is Sava Topich. I am studying Information Technology with a minor in Cyb
 - Working Out
 
 ## Experience in Cybersecurity
-I have been working since May as a security specialist intern for LastLine Cyber, Inc. located in Pittsburgh, PA. I have gained a lot of experience in different areas of cybersecurity. Threat hunting is something I have found very interesting. I have been able to manage clients systems through our threat hunting software where I can monitor different threats, network traffic, indicators of compromise, compliance issues and more. Getting into threat hunting allowed me to start running live tests on different types of ransomware through virtual machines. Doing that gave me the chance to give a live presentation for a client where I was able to pitch our service. Gaining that experience has let me create training programs and materials custom to our clients needs.
+I have been working since May as a security specialist intern for LastLine Cyber, Inc. located in Pittsburgh, PA. I have gained a lot of experience in different areas of cybersecurity. Threat hunting is something I have found very interesting. I have been able to manage clients systems through our threat hunting software where I can monitor different threats, network traffic, indicators of compromise, compliance issues and more. Getting into threat hunting allowed me to start running live tests on different types of ransomware prevention and remediation services through virtual machines. Doing that gave me the chance to give a live presentation for a client where I was able to pitch our service. Gaining that experience has let me create training programs and materials custom to our clients needs.
 
 In addition to threat hunting and training, I have gained experience in policy writing and template building for security policies, incident response, business continuity, and disaster recovery. I have also done different product research on potential software services and Linux tools.
 
 ![Work ex](https://user-images.githubusercontent.com/57881354/202310683-0069c9fe-4524-4625-a1cd-090b555c9942.png)
 
-[Examples of network traffic monitoring, policy writing, and ransomware testing]
+[Examples of network traffic monitoring, policy writing, and ransomware prevention testing]
 
 ## Awards and Honors
 - All-East Region Team 2022- American Volleyball Coaches Association
