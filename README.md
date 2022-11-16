@@ -12,7 +12,7 @@ My name is Sava Topich. I am studying Information Technology with a minor in Cyb
 
 ![work ex 2](https://user-images.githubusercontent.com/57881354/202310157-dab3d55b-41c6-4a0c-b00e-c2dda2133b7d.png)
 
-[Examples of website scraping using python coding and malware analysis]
+[Examples of website scraping using python and malware analysis]
 
 ## Hobbies
 - Music/Vocal Production
