@@ -48,6 +48,6 @@ In addition to threat hunting and training, I have gained experience in policy w
 - I am currently working towards getting certifications in CompTIA A+, Network+, and Security+
 
 ## Contact Information
-- **Email:** savat23@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/sava-topich/
+- **Email:** [savat23@gmail.com](savat23@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/sava-topich/](https://www.linkedin.com/in/sava-topich/)
 - [**Resume:**](https://drive.google.com/file/d/1xbNafUfQA0DK71qmteY75B6L_SBe6JPa/view?usp=sharing)
