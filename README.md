@@ -1,5 +1,5 @@
 # Sava Topich Portfolio
-Cybersecurity Student Athlete at Marymount University
+My name is Sava Topich. I am studying Information Technology with a minor in Cybersecurity at Marymount University graduating in May 2023. I am from Pittsburgh, PA, and along with my studies at the school I am a member of the Men's Volleyball Team. 
 
 ![](/images/Volleyball%20Portrait.JPG)
 
