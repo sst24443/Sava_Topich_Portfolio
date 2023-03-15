@@ -50,4 +50,4 @@ In addition to threat hunting and training, I have gained experience in policy w
 ## Contact Information
 - **Email:** savat23@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/sava-topich/](https://www.linkedin.com/in/sava-topich/)
-- [**Resume:**](https://drive.google.com/file/d/1xmn3Pv1OtlDQIfxbhLhbBjvJyHVM53dj/view?usp=sharing)
+- [**Resume:**](https://drive.google.com/file/d/1a1ybYnUiandwgmVLOwTlt51TR0V43sIz/view?usp=sharing)
