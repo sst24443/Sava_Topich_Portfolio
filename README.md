@@ -1,5 +1,5 @@
 # Sava Topich Portfolio
-My name is Sava Topich. I am studying Information Technology with a minor in Cybersecurity at Marymount University. I graduated from the university with a 3.819 GPA as Summa Cum Laude in May 2023. I am from Pittsburgh, PA, and along with my studies at the school I am a member of the Men's Volleyball Team. 
+My name is Sava Topich. I am studying Information Technology with a minor in Cybersecurity at Marymount University. I graduated from the university with a 3.819 GPA as Summa Cum Laude in May 2023. I am from Pittsburgh, PA, and along with my studies at the school, I am a member of the Men's Volleyball Team. 
 
 ![Volleyball Portrait](https://user-images.githubusercontent.com/57881354/202310633-3d7e15f5-f135-4f63-add6-7199f4f9d38f.JPG)
 
@@ -50,4 +50,4 @@ In addition to threat hunting and training, I have gained experience in policy w
 ## Contact Information
 - **Email:** savat23@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/sava-topich/](https://www.linkedin.com/in/sava-topich/)
-- [**Resume:**](https://drive.google.com/file/d/1a1ybYnUiandwgmVLOwTlt51TR0V43sIz/view?usp=sharing)
+- [**Resume:**](https://drive.google.com/file/d/1JzPjBBa233e0BVVGN4sn9YIJ-bmYArNj/view?usp=sharing)
